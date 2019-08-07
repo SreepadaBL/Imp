@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 2: Check for ôTSIP Confidentialö information, page number with prefix 'page', latest document version in Document Footer is performed.
+Document Review Start Time: 2019-08-05 15:06:01.662167 HH:MM:SS
+---------------------------------------------------------------------------------------------------------
+
+
+Footer in the document:
+
+tsip confidential	tl_re_01_v 4.2	page 8 of 8
+
+Status:Pass
+
+Document Review End Time: 2019-08-05 15:06:10.302816
+
+Time taken For Document Review: 0:00:08.640649 HH:MM:SS
+
+--------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 5: Display Document Properties for self-verification. (AuthorÆs Name, Company and Title).
+Document Review Start Time: 2019-08-05 15:06:13.693459 HH:MM:SS
+--------------------------------------------------------------------------------------------------------
+
+
+Author : Prasanth.Haridasan@TOSHIBA-TSIP.COM
+Company : Toshiba Software (India) Pvt. Ltd
+Title : TSIP_BT_Hostlib_BLEG3HROM003_Stack_Development_SRS
+
+Document Review End Time: 2019-08-05 15:06:18.615366
+
+Time taken For Document Review: 0:00:04.921907 HH:MM:SS
+

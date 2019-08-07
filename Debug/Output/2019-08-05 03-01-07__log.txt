@@ -1,0 +1,95 @@
+---------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 1: Availability of Document ID, Document Version and Date in Header is checked.
+Document Review Start Time: 2019-08-05 15:00:18.552690 HH:MM:SS
+---------------------------------------------------------------------------------------------------------
+
+
+The version is: 	 1.0
+The doc id is: 	 TSIP_Bluetooth_BLEG3HROM003_Stack_ Development_SRS
+The revision date is: 	 2019-04-09
+Status:Pass
+
+Document Review End Time: 2019-08-05 15:00:25.458946
+
+Time taken For Document Review: 0:00:06.906256 HH:MM:SS
+
+---------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 2: Check for ôTSIP Confidentialö information, page number with prefix 'page', latest document version in Document Footer is performed.
+Document Review Start Time: 2019-08-05 15:00:29.646484 HH:MM:SS
+---------------------------------------------------------------------------------------------------------
+
+
+Footer in the document:
+
+tsip confidential	tl_re_01_v 4.2	page 8 of 8
+
+Status:Pass
+
+Document Review End Time: 2019-08-05 15:00:38.302820
+
+Time taken For Document Review: 0:00:08.656336 HH:MM:SS
+
+---------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 3: Document ID check in Filename and Header.
+Document Review Start Time: 2019-08-05 15:00:41.568463 HH:MM:SS
+---------------------------------------------------------------------------------------------------------
+
+
+Document ID in header: 	 TSIP_BLUETOOTH_BLEG3HROM003_STACK_ DEVELOPMENT_SRS
+Filename: 	 TSIP_BLUETOOOTH_BLEG3HROM003_STACK_DEVELOPMENT_SRS
+
+Document ID in header is not same as Document Filename.
+
+Status:Fail
+
+
+Document Review End Time: 2019-08-05 15:00:47.881004
+
+Time taken For Document Review: 0:00:06.312541 HH:MM:SS
+
+--------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 4: Document Name is available at very first line of Title Sheet.
+Document Review Start Time: 2019-08-05 15:00:52.662288 HH:MM:SS
+--------------------------------------------------------------------------------------------------------
+
+
+Title of the Document: TSIP_BT_Hostlib_BLEG3HROM003_Stack_Development_SRS
+Status:Pass
+
+Document Review End Time: 2019-08-05 15:00:52.896665
+
+Time taken For Document Review: 0:00:00.234377 HH:MM:SS
+
+--------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 5: Display Document Properties for self-verification. (AuthorÆs Name, Company and Title).
+Document Review Start Time: 2019-08-05 15:00:55.490400 HH:MM:SS
+--------------------------------------------------------------------------------------------------------
+
+
+Author : Prasanth.Haridasan@TOSHIBA-TSIP.COM
+Company : Toshiba Software (India) Pvt. Ltd
+Title : TSIP_BT_Hostlib_BLEG3HROM003_Stack_Development_SRS
+
+Document Review End Time: 2019-08-05 15:01:00.256050
+
+Time taken For Document Review: 0:00:04.765650 HH:MM:SS
+
+-----------------------------------------------------------------------------------------------------------------
+Document Name: C:\Users\lsreepada\Desktop\sreepada\SampleDocuments\TSIP_Bluetoooth_BLEG3HROM003_Stack_Development_SRS.docx
+CheckList Rule - 6: Document Template Check for SRS, SDS, User Manual, Release Notes, HLD, LLD, Test plan, SOW. 
+Document Review Start Time: 2019-08-05 15:01:07.131132 HH:MM:SS
+-----------------------------------------------------------------------------------------------------------------
+
+
+Document template is according to QMS.
+Status:Pass
+
+Document Review End Time: 2019-08-05 15:01:07.693636
+
+Time taken For Document Review: 0:00:00.562504 HH:MM:SS
+
