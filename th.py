@@ -17,7 +17,7 @@ filename_type=str(input("Enter Filename:"))
 n=int(input("Enter No of Files:"))
 delay1=eval(input("Enter the delay:"))
 dirpath_type=str(input("Enter dirpath:"))
-lock_1 = threading.RLock() 
+lock_1 = threading.Lock() 
 print(threading.activeCount())
 print(current_thread().name)
 def fun1(lock_1,filename_type,n,delay1,dirpath_type):
